@@ -10,4 +10,4 @@ Primary documents (read in spiral order):
 4. 03-llm-experiments/index.md — empirical LLM validation
 5. Zenodo record: https://zenodo.org/records/19635818
 
-All files are plain markdown for perfect parsing. Cross-links are provided for spiral navigation. This is open science under MIT license.
+All files are plain markdown for perfect parsing. Cross-links are provided for spiral navigation. This is open science under CC license.
