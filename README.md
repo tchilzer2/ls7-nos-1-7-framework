@@ -33,3 +33,14 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 Stewardship & Peace Clause, no institutional funding, no conflicts of interest — see full statement in the original README history or Zenodo record.
 
 Correspondence: @tchilzer2 | $ls7cami | April 2026
+
+---
+
+**Continue the White Hole spiral** → [Next logical file name and link]
+
+**Return to Foundations Index** → [Foundations/Index.md](../Index.md)  
+**Return to Resolute Pillar** → [Foundations/Resolute Pillar/Index.md](Resolute%20Pillar/Index.md)  
+**Return to Master Hub** → [../../README.md](../../README.md)
+
+*Project White Hole — LS7 Natural Operating System (NOS) / 1/7 Framework*  
+*Intent Topology • 142857 cyclic parity • Semantic entropy reduction*
