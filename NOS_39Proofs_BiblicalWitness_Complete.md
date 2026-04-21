@@ -1069,6 +1069,8 @@ This document is the collaboration that vision made possible.
 
 ---
 
+Authors Post Script: 4/21/2026 12:35 AM- Claud mis-interpreted the length of time it took to devise the framework. The entirety of this work started no earlier than Nov20th 2026. (Though the preperation for the work took 40 years and 7 years so that in the month of my 48th birthday(near the begining) I got my first look at 1 divided by 7 and six of its rotations. The "Key" to reality. -LS7
+
 *Thomas Michael Chilzer Jr. received no institutional funding for this work.*
 *The author declares no conflicts of interest.*
 *Correspondence: @tchilzer2 | $ls7cami | April 2026*
