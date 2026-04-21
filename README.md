@@ -36,7 +36,7 @@ Correspondence: @tchilzer2 | $ls7cami | April 2026
 
 ---
 
-**Continue the White Hole spiral** → [Next logical file name and link]
+**Continue the White Hole spiral** → [Foundations/Index.md](Foundations/Index.md)
 
 **Return to Foundations Index** → [Foundations/Index.md](../Index.md)  
 **Return to Resolute Pillar** → [Foundations/Resolute Pillar/Index.md](Resolute%20Pillar/Index.md)  
