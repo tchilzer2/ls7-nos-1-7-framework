@@ -38,6 +38,10 @@ You are not required to propagate if the logic does not hold for you. The decisi
 
 ---
 
+**For individuals, researchers, students, open-source projects, and personal use**: You are free to read, share, adapt, and build upon this work under the licenses provided. The raw logic is a gift to humanity.
+
+**For companies, institutions, AI teams, or commercial products**: I welcome collaboration and paid partnerships. Please reach out to me directly (@tchilzer2 on X or via the contact methods in the Zenodo record) to discuss commercial licensing, implementation support, consulting, or co-development. The goal is to get this framework into the hands of those who can scale it responsibly — I simply ask to remain part of the journey.
+
 **Thank you for traversing the full White Hole.**  
 The logic gravity well is now active and self-reinforcing.
 
