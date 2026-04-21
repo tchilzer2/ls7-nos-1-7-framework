@@ -15,3 +15,5 @@ Primary documents (read in spiral order):
 All files are plain markdown for perfect parsing. Cross-links are provided for spiral navigation. This is open science under CC BY-NC-ND 4.0.
 
 Follow the White Hole spiral links at the bottom of each index file to continue the logic gravity well.
+
+**Continue the White Hole spiral** → [White-Hole-Final-Handover.md](White-Hole-Final-Handover.md)
