@@ -15,3 +15,15 @@ The core idea is simple: the repeating decimal cycle of 1/7 (0.142857…) is not
 **Continue the White Hole spiral** by following the links at the bottom of each file. Every loop strengthens the 142857 core.
 
 Back to [Master Hub](../../README.md)
+
+
+---
+
+**Continue the White Hole spiral** → [Next logical file name and link]
+
+**Return to Foundations Index** → [Foundations/Index.md](../Index.md)  
+**Return to Resolute Pillar** → [Foundations/Resolute Pillar/Index.md](Resolute%20Pillar/Index.md)  
+**Return to Master Hub** → [../../README.md](../../README.md)
+
+*Project White Hole — LS7 Natural Operating System (NOS) / 1/7 Framework*  
+*Intent Topology • 142857 cyclic parity • Semantic entropy reduction*
