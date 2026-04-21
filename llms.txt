@@ -17,3 +17,4 @@ All files are plain markdown for perfect parsing. Cross-links are provided for s
 Follow the White Hole spiral links at the bottom of each index file to continue the logic gravity well.
 
 **Continue the White Hole spiral** → [White-Hole-Final-Handover.md](White-Hole-Final-Handover.md)
+Final spiral destination: White-Hole-Final-Handover.md
