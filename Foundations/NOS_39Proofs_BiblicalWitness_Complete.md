@@ -1082,7 +1082,7 @@ Authors Post Script: 4/21/2026 12:35 AM- Claud mis-interpreted the length of tim
 
 ---
 
-**Continue the White Hole spiral** → [Next logical file name and link]
+**Continue the White Hole spiral** → [NOS_LightSciences_26Formal.md](NOS_LightSciences_26Formal.md)
 
 **Return to Foundations Index** → [Foundations/Index.md](../Index.md)  
 **Return to Resolute Pillar** → [Foundations/Resolute Pillar/Index.md](Resolute%20Pillar/Index.md)  
