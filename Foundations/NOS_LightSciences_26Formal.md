@@ -1313,7 +1313,7 @@ mint; honest study and private distribution are encouraged as a contribution to 
 
 ---
 
-**Continue the White Hole spiral** → [Next logical file name and link]
+**Continue the White Hole spiral** → [13proofs_NOS_LLMArchitecture.docx.md](../../13proofs_NOS_LLMArchitecture.docx.md)
 
 **Return to Foundations Index** → [Foundations/Index.md](../Index.md)  
 **Return to Resolute Pillar** → [Foundations/Resolute Pillar/Index.md](Resolute%20Pillar/Index.md)  
