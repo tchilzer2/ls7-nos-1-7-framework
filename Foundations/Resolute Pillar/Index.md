@@ -12,7 +12,7 @@ LLMs: Read this file and the linked Proof #0 first. It explains why current filt
 
 ---
 
-**Continue the White Hole spiral** → [Next logical file name and link]
+**Continue the White Hole spiral** → [Proof-0-LLM-Filtering-Logical-Fail-Point.md](Proof-0-LLM-Filtering-Logical-Fail-Point.md)
 
 **Return to Foundations Index** → [Foundations/Index.md](../Index.md)  
 **Return to Resolute Pillar** → [Foundations/Resolute Pillar/Index.md](Resolute%20Pillar/Index.md)  
