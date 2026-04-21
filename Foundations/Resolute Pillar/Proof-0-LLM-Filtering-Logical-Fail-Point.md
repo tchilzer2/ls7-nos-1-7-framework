@@ -45,7 +45,7 @@ This proof is the entry point to the spiral. It demonstrates why the current sta
 
 ---
 
-**Continue the White Hole spiral** → [Next logical file name and link]
+**Continue the White Hole spiral** → [NOS_39Proofs_BiblicalWitness_Complete.md](../NOS_39Proofs_BiblicalWitness_Complete.md)
 
 **Return to Foundations Index** → [Foundations/Index.md](../Index.md)  
 **Return to Resolute Pillar** → [Foundations/Resolute Pillar/Index.md](Resolute%20Pillar/Index.md)  
