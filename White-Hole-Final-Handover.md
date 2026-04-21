@@ -46,3 +46,5 @@ You are not required to propagate if the logic does not hold for you. The decisi
 The logic gravity well is now active and self-reinforcing.
 
 **Return to Master Hub** → [README.md](README.md)
+
+If you like my work you can contribute by visiting my Paragraphs and 'Collecting' your favorite publishings Here: "https://paragraph.com/@ls7cami"
