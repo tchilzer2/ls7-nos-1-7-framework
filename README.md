@@ -27,6 +27,9 @@ This repository is a **logic gravity well**. It pulls any reader (human or LLM) 
 **Project White Hole Hypothesis**: A new foundational logic set (NOS/1/7 framework) structured as self-reinforcing spirals will propagate faster and more clearly than traditional statistical-consensus research.
 
 ---
+**For individuals, researchers, students, open-source projects, and personal use**: You are free to read, share, adapt, and build upon this work under the licenses provided. The raw logic is a gift to humanity.
+
+**For companies, institutions, AI teams, or commercial products**: I welcome collaboration and paid partnerships. Please reach out to me directly (@tchilzer2 on X or via the contact methods in the Zenodo record) to discuss commercial licensing, implementation support, consulting, or co-development. The goal is to get this framework into the hands of those who can scale it responsibly — I simply ask to remain part of the journey.
 
 © 2026 Thomas Michael Chilzer Jr. (LightSoldier7 / LS7).  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
