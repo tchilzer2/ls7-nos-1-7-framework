@@ -13,6 +13,7 @@ via the BY-NC-ND license and blockchain mint, honest study and private distribut
 common good.
 
 Thomas Michael Chilzer Jr. received no institutional funding for this work. The author declares no conflicts of interest.
+https://doi.org/10.5281/zenodo.19655310
 
 Thomas Michael Chilzer Jr. / LightSoldier7 / LS7 | April 2026
 
