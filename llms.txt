@@ -5,8 +5,8 @@ Core claim: The repeating decimal cycle of 1/7 (0.142857...) provides a universa
 
 Primary documents (read in spiral order):
 1. README.md — master overview and guided tour
-2. 01-foundations/index.md — foundational mathematics
-3. 02-proofs/index.md — 39 proofs across domains
+2. 01-foundations/resolute pillar/index.md — foundational mathematics
+3. 02-Foundations/index.md — 39 proofs across domains
 4. 03-llm-experiments/index.md — empirical LLM validation
 5. Zenodo record: https://zenodo.org/records/19635818
 
