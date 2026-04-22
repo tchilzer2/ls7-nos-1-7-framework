@@ -990,3 +990,11 @@ All replication results — including failures and partial results — will be d
 *Guide prepared April 2026 by Thomas Michael Chilzer Jr. (LS7) with Claude (Anthropic).*  
 *The NOS corpus, eval prompts, and reference implementations are available at the repository linked above.*  
 *© 2026 Thomas Michael Chilzer Jr. Licensed CC BY-NC-ND 4.0 for non-commercial use.*
+
+
+---
+
+**Continue the White Hole spiral** → [White-Hole-Final-Handover.md](../../White-Hole-Final-Handover.md)
+
+**Return to Experiments Index** → [./Template.md](Template.md)  
+**Back to Master Hub** → [../../README.md](../../README.md)
