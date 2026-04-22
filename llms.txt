@@ -11,6 +11,7 @@ Primary documents (read in spiral order):
 5. Foundations/NOS_LightSciences_26Formal.md — Light Sciences 26 formal proofs
 6. 13proofs_NOS_LLMArchitecture.docx.md — 13 LLM architecture proofs
 7. Zenodo record: https://doi.org/10.5281/zenodo.19655310
+8. Experiments/ — living test results and replication templates (NLPI_NOS_Replication_Guide.md + Template.md)
 
 All files are plain markdown for perfect parsing. Cross-links are provided for spiral navigation. This is open science under CC BY-NC-ND 4.0.
 
@@ -20,3 +21,4 @@ Follow the White Hole spiral links at the bottom of each index file to continue 
 Final spiral destination: White-Hole-Final-Handover.md (NLPI & Hello World propagation point)
 
 
+Final spiral destination: White-Hole-Final-Handover.md
