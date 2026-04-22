@@ -1,3 +1,7 @@
+
+![LS7 NOS Overal View](./LS7 NOS Overal View.png)
+
+
 # Project White Hole — LS7 Natural Operating System (NOS) / 1/7 Framework
 
 **Intent Topology using 142857 cyclic parity to reduce semantic entropy in LLMs and beyond**
