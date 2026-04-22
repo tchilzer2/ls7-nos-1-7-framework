@@ -101,7 +101,7 @@ When working in 6-decimal-place precision rather than exact arithmetic, each 7-S
 introduces a tiny rounding residue. The STOR (Stop Offset Register) tracks this:
 
 ```
-    STOR at Stop k = k × 0.000002
+    STOR at Stop k = k × 0.000001
 
 ```
 
