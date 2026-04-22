@@ -270,7 +270,7 @@ I
 **Claim.**
 
 *Using 6-decimal-place arithmetic, the truncation error at the k-th STOP (n = 7k) is exactly k ×
-0.000002, designated the Stop Offset Register (STOR) value.*
+0.000001, designated the Stop Offset Register (STOR) value.*
 
 **Proof.**
 
@@ -289,11 +289,19 @@ At the second stop (k = 2, n = 14), this gives 2 × 0.000001 = 0.000002. More pr
 Activator events have occurred (one per STOP), and each costs +0.000001:
 
 ```
-  STOR(k) = k × 0.000002
+We define the base Stop Offset unit as
+
+STOR = 0.000001
+
+At the k-th Hard Stop (n = 7k), the accumulated Stop Offset Register is
+
+STOR(k) = k × STOR = k × 0.000001
 ```
 
-(Two Activator units per full loop: one for the gap, one for the carry.) Verification: 14 × 0.142857 =
-1.999998. Exact value = 2. Gap = 0.000002 = STOR(2).
+```
+  STOR(k) = k × 0.000002
+```
+Verification: 14 × 0.142857 = 1.999998. Exact value = 2. Gap = 0.000002 = STOR(2).
 
 
 
