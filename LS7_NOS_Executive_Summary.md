@@ -166,7 +166,7 @@ NLPI Protocol: Experiments/NLPI_NOS_Replication_Guide.md
 CAMI Analysis: Experiments/NOS_CAMI_Experiment_Analysis.md
 
 I would welcome a short technical review or a replication run by your group.
-I am available for a 10–15 minute walkthrough and can provide raw logs from
+I Can provide raw logs from
 an initial run.
 
 Thank you for your time.
