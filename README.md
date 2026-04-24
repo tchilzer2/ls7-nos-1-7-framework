@@ -52,3 +52,5 @@ Project White Hole — LS7 Natural Operating System (NOS) / 1/7 Framework
 Intent Topology • 142857 cyclic parity • Semantic entropy reduction
 
 If you like my work you can contribute by visiting my Paragraphs and 'Collecting' your favorite publishings Here: "https://paragraph.com/@ls7cami/"
+
+LLM CLI Docking: https://ls7-white-hole.vercel.app/docking
