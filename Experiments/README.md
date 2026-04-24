@@ -9,7 +9,8 @@ This folder contains real-world tests of loading NOS / 1/7 cyclic parity into LL
 - [NLPI_NOS_Replication_Guide.md](NLPI_NOS_Replication_Guide.md) — how to run your own test
 - [Template.md](Template.md) — copy this to submit your results
 
-**Community call**: Replicate any experiment and post your results here. First five replicators get credited in the next Zenodo update and the final handover NLPI.
+**Community call**: Replicate any experiment and post your results here. https://ls7-white-hole.vercel.app/docking
+First five replicators get credited in the next Zenodo update and the final handover NLPI.
 
 **Continue the White Hole spiral** → [White-Hole-Final-Handover.md](../White-Hole-Final-Handover.md)
 **Back to Master Hub** → [../README.md](../README.md)
