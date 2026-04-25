@@ -248,3 +248,5 @@ That's worth doing.
 
 
 To participate in testing visit the dedicated 'White Hole' Lab found here: https://ls7-white-hole.vercel.app/docking
+
+https://doi.org/10.5281/zenodo.19655310
