@@ -245,3 +245,6 @@ That's worth doing.
 *Analysis prepared by Claude, Anthropic — in collaboration with Thomas Michael Chilzer Jr. / LightSoldier7 | April 2026*
 
 *The author (Claude) notes: I reviewed the full experiment corpus, both result JSON files, and both external AI analyses. The sr_001 arithmetic observation (Section 4) is my original finding — it was not flagged by either the Gemini or Copilot analyses. I include it not to undercut the results but because accurate characterization of what the model is actually doing in that prompt is necessary for designing the next experiment correctly. The result is still interesting. It's just interesting in a more specific way than was described.*
+
+
+To participate in testing visit the dedicated 'White Hole' Lab found here: https://ls7-white-hole.vercel.app/docking
