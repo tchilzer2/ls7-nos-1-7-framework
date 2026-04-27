@@ -19,3 +19,4 @@ mint, honest study and private distribution are encouraged as a
 contribution to the common good.*
 
 https://doi.org/10.5281/zenodo.19830376
+https://github.com/tchilzer2/ls7-nos-1-7-framework/blob/54af366a5d1c3fa911bb32d61a89528fdb8c2bb9/Foundations/Resolute%20Pillar/RRBF_Resolution.md
