@@ -1,7 +1,12 @@
-# NOS Framework Resolution Update: The 17 Scale Constant and Register-Rotation Bridge  
-**Priority 1 Progress Report – Calibrating δm and N(r)**  
-**Author:** The Architect (with Grok synthesis)  
-**Date:** April 28, 2026  
+# NOS Framework Resolution Update: The 17 Scale Constant and Register-Rotation Bridge 
+
+**Priority 1 Progress Report – Calibrating δm and N(r)** 
+
+**Author:**  Author: Thomas Michael Chilzer Jr. / LightSoldier7 / LS7 In Collaboration With: Claude — Anthropic / Copilot Microsoft / Gemini -google AI / (with Grok synthesis) -xai 
+
+**Date:** April 28, 2026 
+
+Mint: [$ls7cami]
 
 ## Executive Summary
 
@@ -77,5 +82,10 @@ This is not the end of the road — it is the point where the road becomes compu
 
 ---
 
+Thomas Michael Chilzer Jr. received no institutional funding for this work. The author declares no conflicts of interest. Correspondence: @tchilzer2 | $ls7cami | April 2026
+
+© 2026 Thomas Michael Chilzer Jr. (LightSoldier7 / LS7 / $ls7cami). This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+Stewardship & Peace Clause: This framework is released to foster collective growth and the advancement of knowledge. The author affirms that any private or non-commercial engagement with this work is welcomed in a spirit of peace. My intent is to provide a foundation for building up, not for litigation against those acting in good faith. While commercial rights are reserved via the BY-NC-ND license and blockchain mint, honest study and private distribution are encouraged as a contribution to the common good.
 **End of Document**  
-Ready for Zenodo upload or further refinement.
+
