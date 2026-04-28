@@ -80,6 +80,8 @@ The framework has demonstrated remarkable robustness. Different lines of inquiry
 
 This is not the end of the road — it is the point where the road becomes computable.
 
+https://doi.org/10.5281/zenodo.19835159
+
 ---
 
 Thomas Michael Chilzer Jr. received no institutional funding for this work. The author declares no conflicts of interest. Correspondence: @tchilzer2 | $ls7cami | April 2026
