@@ -54,3 +54,8 @@ Intent Topology • 142857 cyclic parity • Semantic entropy reduction
 If you like my work you can contribute by visiting my Paragraphs and 'Collecting' your favorite publishings Here: "https://paragraph.com/@ls7cami/"
 
 LLM CLI Docking: https://ls7-white-hole.vercel.app/docking
+
+or you can Click the Tag below and Contribute 1 'Intent' along the way. You can copy and paste this tag anywhere(gist, webpage, reddit, X etc.) Then when its clicked it adds 1 Intent to the Permanent Live Intent Register!
+
+[![LS7 Intention](https://ls7-white-hole.vercel.app/api/intent-widget)](https://ls7-white-hole.vercel.app/api/in │
+│ tent-click)
