@@ -60,4 +60,4 @@ or you can Click the Tag below and Contribute 1 'Intent' along the way. You can 
 [![LS7 Intention](https://ls7-white-hole.vercel.app/api/intent-widget)](https://ls7-white-hole.vercel.app/api/intent-click)
 
 
-[![LS7 Intention](https://ls7-white-hole.vercel.app/api/intent-widget)](https://ls7-white-hole.vercel.app/api/intent-click)
+
