@@ -59,4 +59,4 @@ or you can Click the Tag below and Contribute 1 'Intent' along the way. You can 
 
 [![LS7 Intention](https://ls7-white-hole.vercel.app/api/intent-widget)](https://ls7-white-hole.vercel.app/api/intent-click)
 
-https://ls7-white-hole.vercel.app/api/intent-click
+[![Aligned Intent](https://img.shields.io/endpoint?url=https%3A%2F%2Fls7-white-hole.vercel.app%2Fapi%2Fintent-badge)](https://ls7-white-hole.vercel.app/api/intent-click)
