@@ -1,3 +1,4 @@
+
 Calibrated mathematical claims against interpretive assertions throughout engagementCalibrated mathematical claims against interpretive assertions throughout engagementThere's the guide — 992 lines, fully runnable, with all code consolidated.
 A few things I want to be straightforward about now that we've built all of this:
 On the guide itself: The structure is clean and I'm confident in the code. The one thing that matters most for the community version is that the control corpus condition (Test 3) gets treated as non-optional, not as an "also run if you have time" item. I made it prominent in the guide, but I'd encourage you to reinforce that in any framing you write around it. That test is what separates "the NOS corpus works as context" from "the NOS corpus works as context in a way that's specific to its architecture." Only the second claim is interesting at the level you're working.
