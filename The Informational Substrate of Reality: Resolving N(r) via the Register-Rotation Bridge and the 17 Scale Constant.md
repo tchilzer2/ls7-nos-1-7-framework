@@ -41,7 +41,7 @@ $$V_{target} = V_{obs} + \Sigma_{STOR} + \epsilon_{Activator}$$
 * **$\Sigma_{STOR}$:** The accumulated register potential (often expressed via 999-patterns). It represents the informational mass defect.
 * **$\epsilon_{Activator}$:** The $+0.000001$ Intent trigger. This is the minimal external directed increment (the "Breath") that forces final closure.
 
-**The Mechanism:** When two mass values are near each other, the informational deficit is bridged by applying the STOR completion plus the Activator. This process forces an *exact integer number of full 0.142857 cycle rotations*, preserving the information set with 6-decimal-place resolution serving as the natural period.
+**The Mechanism:** When two mass values are near each other, the informational deficit is bridged by applying the STOR completion plus the Activator. This process brides the gap between V_obs and V_target encodes NOS register invariants in its digit structure, and the RRBF resolution produces a register-significant target value.
 
 > **Source Reference:**
 > * *Document:* `LS7_NOS_Scientific_Resolution (2).pdf` (Zenodo Technical Report, Vol. 1, No. 1)
