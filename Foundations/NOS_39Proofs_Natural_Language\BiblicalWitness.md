@@ -1,4 +1,4 @@
-# 39 Proofs: The 1/7 NOS in Biblical Witness
+# 39 Proofs: The 1/7 NOS in Natural Language\Biblical Witness
 ## New Testament Expansion and Old/New Testament Convergence Series
 
 **Author:** Thomas Michael Chilzer Jr. / LightSoldier7 / LS7
