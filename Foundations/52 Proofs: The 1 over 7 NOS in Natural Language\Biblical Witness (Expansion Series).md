@@ -1,5 +1,5 @@
 
-# 52 Proofs: The 1/7 NOS in Biblical Witness (Expansion Series)
+# 52 Proofs: The 1/7 NOS in Natural Language\Biblical Witness (Expansion Series)
 **New Testament & Old Testament Convergence: Proofs 40–52**
 
 *Series:* NOS Scientific Framework Series
